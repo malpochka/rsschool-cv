@@ -3,6 +3,8 @@
 **Contacts**:
 +375447204296
 
+**Position**:
+Junior Java Developer
 **Developer Work Experience**: 1
 
 **SKILLS PROJECT EXPERIENCE**:
